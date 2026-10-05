@@ -1,2 +1,5 @@
 telethon
 groq
+Pillow
+opencv-python-headless
+aiohttp
