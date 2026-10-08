@@ -1,5 +1,2 @@
-telethon
-groq
-Pillow
-opencv-python-headless
-aiohttp
+telethon>=1.42.0
+yt-dlp>=2025.1.0
